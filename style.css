@@ -1,0 +1,213 @@
+*{
+    padding: 0px;
+    margin:0px;
+    text-decoration: none;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+label.logo{
+    color:white;
+    font-size: 45px;
+    line-height: 75px;
+    margin-left: 70px;
+}
+nav{
+    background-color:rgb(48, 122, 151);
+    height:80px;
+    width:100%;
+    position: fixed;
+    opacity: 0.7;
+}
+nav ul{
+    float: right;
+    margin-right: 20px;   
+    line-height: 75px; 
+}
+
+nav ul li{
+    display: inline-block;
+    margin:0 5px;
+    padding:5px;
+}
+nav ul li a{
+    color:whitesmoke;
+    font-size: 17px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+nav ul li a:hover{
+    padding:10px;
+    background-color: red;
+}
+.myHead{
+    height: 400px;
+    background-image: url("images/client.jpg");
+}
+
+
+.cta{
+   
+    padding:10px;
+    margin-top: -40px;
+    background-color:skyblue;
+    height: 70px;
+    
+}
+p{
+    float: left;
+    line-height: 50px;
+    font-weight: lighter;
+    font-size: 20px;
+    color:black;
+    margin-left: 50px;
+}
+
+#cta_link{
+    display: inline-block;
+    padding:10px 35px;
+    background-color: purple;
+    font-weight: bold;
+    color:white;
+    float: right;
+    margin:5px;
+}
+#cta_link:hover{
+    background-color: red;
+}
+
+.Services-wrapper{
+ max-width: 900px;
+ height: 400px;
+ margin: 20px 200px;
+ background-color:honeydew;
+ padding:15px;
+}
+h1{
+    padding-top: 50px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 600;
+    font-family:'Times New Roman', Times, serif;
+}
+.Services-wrapper ul {
+    margin-top: 30px;
+    margin-left:30px;
+}
+.Services-wrapper ul li{
+    max-width: 270px;
+    display: inline-block;
+    margin: 3px;
+}
+.demo{
+    font-size: 15px;
+    line-height: 25px;
+    font-style: italic;
+    padding: 5px;
+}
+label.service{
+    font-size: 17px;
+    line-height: 30px;
+    margin: 30px;
+    font-weight: bold;
+    padding-left:20px;
+}
+.imgre{
+    margin: 10px 80px;
+}
+
+.recent_work{
+    margin-top: 30px;
+    padding:15px;
+    width:100%;
+    background-color: gray;
+
+}
+.work{
+    width:250px;
+    height:250px;
+    margin-left: 10px;
+}
+.work:hover{
+    padding:30px;
+    rotate:inherit;
+}
+.testimomonials_wrapper{
+    margin-top: 30px;
+    margin-left:250px;
+    max-width: 900px;
+    height: 300px;
+   
+}
+.testimomonials_wrapper ul li{
+    max-width: 270px;
+    display: inline-block;
+    margin: 10px;
+}
+footer{
+
+    margin-top:30px;
+    margin-bottom: 30px;
+    height:300px;
+    background-color:black;
+    color:white;
+    
+}
+.footer-containt{
+    
+    margin-left:250px;
+    height:200px;
+    padding:30px;
+}
+
+  #comp_list li a{
+      color:white;
+      
+  }
+  #sup_list li a{
+      color:white;
+      text-decoration: none;
+      
+  }
+  .area{
+    display: inline-block;
+    width: 175px;
+    height: 150px;
+    padding:10px;
+    margin:10px;
+    line-height: 30px;
+  }
+ 
+  .nameOfCompany{
+    display: inline-block;
+    width: 175px;
+    height: 150px;
+    margin:10px;
+    padding:10px;
+    line-height: 30px;  
+}
+.support{
+    display: inline-block;
+    width: 175px;
+    height: 150px;
+    margin:10px;
+    padding:10px;
+    line-height: 30px;
+
+}
+.apkStudio{
+    display: inline-block;
+    width: 175px;
+    height: 150px;
+    margin:10px;
+    padding:10px;
+  
+    line-height: 30px;
+}
+h2{
+    line-height: 30px;
+}
+.rights{
+    color:white;
+    margin:30px 475px;
+}
