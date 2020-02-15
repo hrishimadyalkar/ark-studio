@@ -76,7 +76,7 @@ p{
     background-color: red;
 }
 
-.Services-wrapper{
+#Services_wrapper{
  max-width: 900px;
  height: 400px;
  margin: 20px 200px;
@@ -90,11 +90,11 @@ h1{
     font-weight: 600;
     font-family:'Times New Roman', Times, serif;
 }
-.Services-wrapper ul {
+#Services_wrapper ul {
     margin-top: 30px;
     margin-left:30px;
 }
-.Services-wrapper ul li{
+#Services_wrapper ul li{
     max-width: 270px;
     display: inline-block;
     margin: 3px;
@@ -132,14 +132,14 @@ label.service{
     padding:30px;
     rotate:inherit;
 }
-.testimomonials_wrapper{
+#testimomonials_wrapper{
     margin-top: 30px;
     margin-left:250px;
     max-width: 900px;
     height: 300px;
    
 }
-.testimomonials_wrapper ul li{
+#testimomonials_wrapper ul li{
     max-width: 270px;
     display: inline-block;
     margin: 10px;
@@ -153,7 +153,7 @@ footer{
     color:white;
     
 }
-.footer-containt{
+.footer_widget{
     
     margin-left:250px;
     height:200px;
@@ -186,7 +186,7 @@ footer{
     padding:10px;
     line-height: 30px;  
 }
-.support{
+.Support{
     display: inline-block;
     width: 175px;
     height: 150px;
